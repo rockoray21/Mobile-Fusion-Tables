@@ -1,5 +1,6 @@
 Mobile Fusion Tables
 ====================
+[See the working demo &raquo;](http://rockoray21.github.io/Mobile-Fusion_Tables/)
 
 A mobile-ready template using Fusion Tables and jQuery Mobile, originally based on Derek Eder's [Fusion Table Searchable Map Template](https://github.com/derekeder/FusionTable-Map-Template).
 
