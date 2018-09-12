@@ -30,11 +30,11 @@ var MapsLib = MapsLib || {}; MapsLib.schemaVersion = 2;
     // See https://developers.google.com/fusiontables/docs/v1/migration_guide for more info
 
     // The encrypted Table ID of your Fusion Table (found under File => About)
-    MapsLib.fusionTableId = "13xmU6wANRJb0Niqcdz5Tr0xWh4AyV0yN10xMxPc";
+    MapsLib.fusionTableId = "1m4Ez9xyTGfY2CU6O-UgEcPzlS0rnzLU93e4Faa0";
 
     // *New Fusion Tables Requirement* API key. found at https://code.google.com/apis/console/
     // *Important* this key is for demonstration purposes. please register your own.
-    MapsLib.googleApiKey ="AIzaSyAMVBSXes-6P-gWaxRj20GK8NT6WDVpozM";
+    MapsLib.googleApiKey ="AIzaSyBYiXJUQut06G8-UnAQYl1dyQbF2CYFECo";
     
 
     // DONE!  YOU COULD DELETE EVERYTHING AFTER THIS POINT AND STILL HAVE A WORKING APP.
